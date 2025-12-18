@@ -1,0 +1,118 @@
+{
+  "birthday-decor": {
+    "title": "Birthday Decor",
+    "images": [
+      "/birthday1.jpg",
+      "/birthday2.jpg",
+      "/birthday3.jpg",
+      "/birthday4.jpg",
+      "/birthday5.jpg",
+      "/birthday6.jpg",
+      "/birthday7.jpg",
+      "/birthday8.jpg",
+      "/birthday9.jpg",
+      "/birthday10.jpg"
+    ]
+  },
+
+  "mehndi-event": {
+    "title": "Mehndi Event",
+    "images": [
+      "/mehndi1.jpg",
+      "/mehndi2.jpg",
+      "/mehndi3.jpg",
+      "/mehndi4.jpg",
+      "/mehndi5.jpg"
+    ]
+  },
+
+  "cocktail": {
+    "title": "Cocktail Party",
+    "images": [
+      "/cocktail1.jpg",
+      "/cocktail2.jpg",
+      "/cocktail3.jpg",
+      "/cocktail4.jpg"
+    ]
+  },
+
+  "marriage": {
+    "title": "Marriage",
+    "images": [
+      "/marriage1.jpg",
+      "/marriage2.jpg",
+      "/marriage3.jpg",
+      "/marriage4.jpg",
+      "/marriage5.jpg",
+      "/marriage6.jpg"
+    ]
+  },
+
+  "corporate-events": {
+    "title": "Corporate Events",
+    "images": [
+      "/corporate1.jpg",
+      "/corporate2.jpg",
+      "/corporate3.jpg",
+      "/corporate4.jpg"
+    ]
+  },
+
+  "stage-performance": {
+    "title": "Stage Performance",
+    "images": [
+      "/stage1.jpg",
+      "/stage2.jpg",
+      "/stage3.jpg"
+    ]
+  },
+
+  "live-band": {
+    "title": "Live Band",
+    "images": [
+      "/live-band1.jpg",
+      "/live-band2.jpg",
+      "/live-band3.jpg"
+    ]
+  },
+
+  "dance-troupe": {
+    "title": "Dance Troupe",
+    "images": [
+      "/dance1.jpg",
+      "/dance2.jpg",
+      "/dance3.jpg"
+    ]
+  },
+
+  "bride-groom-entry": {
+    "title": "Bride & Groom Entry",
+    "images": [
+      "/entry1.jpg",
+      "/entry2.jpg",
+      "/entry3.jpg",
+      "/entry4.jpg"
+    ]
+  },
+
+  "catering-decoration": {
+    "title": "Catering & Decoration",
+    "images": [
+      "/catering1.jpg",
+      "/catering2.jpg",
+      "/catering3.jpg",
+      "/catering4.jpg",
+      "/catering5.jpg"
+    ]
+  },
+
+  "decoration": {
+    "title": "Decoration",
+    "images": [
+      "/decor1.jpg",
+      "/decor2.jpg",
+      "/decor3.jpg",
+      "/decor4.jpg"
+    ]
+  }
+}
