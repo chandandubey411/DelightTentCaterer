@@ -80,7 +80,7 @@ export default function Home() {
                   Book Now
                 </a>
                 <a
-                  href="tel:08062429891"
+                  href="tel:09971789706"
                   className="border border-[#d6a85a] px-6 py-3 rounded hover:bg-[#d6a85a] hover:text-black transition"
                 >
                   Call Us

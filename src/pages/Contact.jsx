@@ -45,10 +45,10 @@ export default function Contact() {
             <li>
               📞 <strong>Alternate:</strong>{" "}
               <a
-                href="tel:+919873448600"
+                href="tel:+099717 89706"
                 className="text-[#d6a85a] font-medium"
               >
-                +91 98734 48600
+                09971789706
               </a>
             </li>
 
@@ -71,14 +71,14 @@ export default function Contact() {
           {/* CTA BUTTONS */}
           <div className="flex gap-4 mt-8">
             <a
-              href="tel:+919971789706"
+              href="tel:+099717 89706"
               className="bg-[#d6a85a] text-black px-6 py-3 rounded font-medium hover:bg-yellow-500 transition"
             >
               Call Now
             </a>
 
             <a
-              href="https://wa.me/919971789706"
+              href="https://wa.me/099717 89706"
               target="_blank"
               rel="noopener noreferrer"
               className="border border-[#d6a85a] text-[#d6a85a] px-6 py-3 rounded font-medium hover:bg-[#d6a85a] hover:text-black transition"
