@@ -18,17 +18,19 @@ export default function Contact() {
           </h2>
 
           <p className="text-sm leading-7 mb-6">
-            If you are planning a wedding, birthday party, corporate
-            event or any special celebration, feel free to contact us.
-            Our team is always happy to guide you and help plan your
-            event smoothly.
+            If you are planning a wedding, birthday party, corporate event or
+            any special celebration, feel free to contact us. Our team is always
+            happy to guide you and help plan your event smoothly.
           </p>
 
           <ul className="space-y-4 text-sm">
             <li>
-              📍 <strong>Address:</strong><br />
-              Plot No. 362, Abhay Khand 3,<br />
-              Near San Francis School,<br />
+              📍 <strong>Address:</strong>
+              <br />
+              Plot No. 362, Abhay Khand 3,
+              <br />
+              Near San Francis School,
+              <br />
               Indirapuram, Ghaziabad, U.P.
             </li>
 
@@ -54,16 +56,14 @@ export default function Contact() {
 
             <li>
               ✉️ <strong>Email:</strong>{" "}
-              <a
-                href="mailto:info@prasvievents.com"
-                className="text-[#d6a85a]"
-              >
+              <a href="mailto:info@prasvievents.com" className="text-[#d6a85a]">
                 info@prasvievents.com
               </a>
             </li>
 
             <li>
-              ⏰ <strong>Working Hours:</strong><br />
+              ⏰ <strong>Working Hours:</strong>
+              <br />
               Monday – Sunday : 10:00 AM – 9:00 PM
             </li>
           </ul>
@@ -78,7 +78,7 @@ export default function Contact() {
             </a>
 
             <a
-              href="https://wa.me/099717 89706"
+              href="https://wa.me/919971789706"
               target="_blank"
               rel="noopener noreferrer"
               className="border border-[#d6a85a] text-[#d6a85a] px-6 py-3 rounded font-medium hover:bg-[#d6a85a] hover:text-black transition"
