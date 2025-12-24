@@ -56,8 +56,8 @@ export default function Contact() {
 
             <li>
               ✉️ <strong>Email:</strong>{" "}
-              <a href="mailto:info@prasvievents.com" className="text-[#d6a85a]">
-                info@prasvievents.com
+              <a href="mailto:info@delighttentandcaterer.in" className="text-[#d6a85a]">
+                info@delighttentandcaterer.in
               </a>
             </li>
 

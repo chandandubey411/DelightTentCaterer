@@ -8,7 +8,7 @@ export default function Enquiry() {
     setStatus("Sending...");
 
     const formData = new FormData(e.target);
-    formData.append("access_key", "4c31e106-ed27-43ec-9811-03a496832d22"); // 🔑 replace
+    formData.append("access_key", "d2b26a78-5c3a-4abb-8cca-c6ec813d0424"); // 🔑 replace
 
     try {
       const res = await fetch("https://api.web3forms.com/submit", {
