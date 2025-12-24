@@ -58,10 +58,10 @@ export default function Footer() {
             <li className="flex items-center gap-3">
               <FaEnvelope className="text-[#d6a85a]" />
               <a
-                href="mailto:info@prasvievents.com"
+                href="mailto:info@delighttentandcaterer.in"
                 className="hover:text-white"
               >
-                info@prasvievents.com
+                info@delighttentandcaterer.in
               </a>
             </li>
           </ul>
