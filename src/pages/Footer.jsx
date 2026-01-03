@@ -82,7 +82,7 @@ export default function Footer() {
             </a>
 
             <a
-              href="#"
+              href="https://www.instagram.com/delight_tent_caterer?igsh=MTF2NGJ1dW1ydXNnbw=="
               className="w-10 h-10 flex items-center justify-center border border-[#d6a85a] rounded-full hover:bg-[#d6a85a] hover:text-black transition"
             >
               <FaInstagram />
